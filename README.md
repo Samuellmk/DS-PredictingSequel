@@ -55,17 +55,15 @@ Project is: _complete_
 Room for improvement:
 - Possible better dataset (Finer data filtering)
 - More machine learning techniques to improve accuracy 
-- Tuning of hyperparameter
+- More fine tuning of hyperparameters
 
 
 ## Acknowledgements
-- Many Thanks to my team (you know who you are) for contributing in this project!
+- Many Thanks to my team for contributing in this project!
 
 
-## Contact
+## Contact Us
 Created by [Samuel](https://www.linkedin.com/in/samuel-leongmk/) & [Xavier](https://github.com/Xavierleeeugene)
-
-Feel free to contact me!
 
 
 <!-- Optional -->
