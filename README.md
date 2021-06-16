@@ -34,7 +34,7 @@ Machine Learning Techniques:
 
 
 ## Setup
-Essential Python library:
+Essential Python libraries:
 - tmdbsimple
 - tqdm
 
